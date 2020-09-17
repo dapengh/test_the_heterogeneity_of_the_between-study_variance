@@ -1,1 +1,1 @@
-# test_the_heterogeneity_of_the_between-study_variance
+# Test the heterogeneity of the between-study variance in a network meta-analysis
